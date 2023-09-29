@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Mukta:wght@300&family=Ubuntu:ital,wght@1,500&display=swap');
+
+body{
+    background-color: #c6d0d8;
+}
+
+.banner{
+    width: 100%;
+    height: 300px;
+    background: #0f293c;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    /*font-family: 'Croissant One', cursive;*/
+    font-family: 'Mukta', sans-serif;
+
+}
+
+.Logo {
+    background: transparent;
+    border: 2px solid white;
+    padding: 5px;
+    color: white;
+   width: 350px;
+   height: auto;
+   display: flex;
+   justify-content: center;
+   font-family: 'Croissant One', cursive;
+}
+.obj{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+}
+.obj .n1{
+    background-color: #6560d9;
+    border-radius: 4%;
+}
+
+.banner p{
+    width: 350px;
+}

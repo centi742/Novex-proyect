@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+.category_list{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	
+}
+
+.category_list .category_item{
+	display: flex;
+	width: 90%;
+	padding: 15px 0;
+	margin-bottom: 20px;
+	background: #E84C3D;
+	justify-content: center;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+.category_list .ct_item-active{
+	background: #2D3E50;
+}
+
+/* PRODUCTOS ============*/
+
+
+
+.products-list .product-item{
+	
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	width: 100%;
+	transition: all .4s;
+}
+
+
