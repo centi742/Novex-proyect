@@ -28,6 +28,7 @@ body{
    display: flex;
    justify-content: center;
    font-family: 'Croissant One', cursive;
+   border-radius: 15px 0px 15px 0px;
 }
 .obj{
     display: flex;
